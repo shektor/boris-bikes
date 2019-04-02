@@ -25,5 +25,5 @@ docking_station | release_bike
 bike  | see_state
 
 
-person + see_state 'on' bike
+person + see_state 'on' bike  
 bike + release_bike 'on' docking_station
